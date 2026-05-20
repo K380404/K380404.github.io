@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <rect width="80" height="80" rx="14" fill="#0a1628"/>
+  <!-- Concentrix "C" spiral icon approximation using arcs -->
+  <circle cx="40" cy="36" r="18" fill="none" stroke="#00a7e1" stroke-width="4" stroke-dasharray="90 25"/>
+  <circle cx="40" cy="36" r="10" fill="none" stroke="#00c3f0" stroke-width="3" stroke-dasharray="50 18"/>
+  <circle cx="40" cy="36" r="3.5" fill="#00e5ff"/>
+  <!-- text -->
+  <text x="40" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="7.5" fill="#00c3f0" letter-spacing="1">CONCENTRIX</text>
+</svg>
